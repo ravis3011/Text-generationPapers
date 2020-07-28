@@ -499,3 +499,6 @@ error rate of predicting whether a sentence is human- or machine-generated.*
 MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance. *EMNLP 2019*. [[PDF]()] 
 
 
+
+## Important Articles
+https://jalammar.github.io/illustrated-bert/
